@@ -1,0 +1,6 @@
+{
+  "name": "پورتال هاب و خدمات اهورایی | Ahourai Portal",
+  "description": "هاب مرکزی گروه اهورایی شامل پورتال اهورایی دیجیتال و آشیانه اهورایی، با طراحی مدرن و تجربه تعاملی اختصاصی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
